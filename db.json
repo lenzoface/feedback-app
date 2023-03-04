@@ -6,14 +6,14 @@
       "text": "This is mock text 1, from backend"
     },
     {
-      "id": 2,
-      "rating": 6,
-      "text": "This is mock text 2, from backend"
+      "text": "This is mock text 2, from backend",
+      "rating": 9,
+      "id": 2
     },
     {
-      "id": 3,
-      "rating": 8,
-      "text": "This is mock text 3, from backend"
+      "text": "A new review blah",
+      "rating": 9,
+      "id": 4
     }
   ]
 }
