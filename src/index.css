@@ -380,7 +380,7 @@ input:focus {
 
   right: 20px;
 
-  color: #fff;
+  color: #ff6a95;
 
   cursor: pointer;
 
@@ -390,7 +390,7 @@ input:focus {
 
 .about-link a {
 
-  color: #fff;
+  color: #ff6a95;
 
 }
 
@@ -398,7 +398,7 @@ input:focus {
 
 .about-link a:hover {
 
-  color: #ff6a95;
+  color: #fff;
 
 }
 
